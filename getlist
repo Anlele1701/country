@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "country": "Việt Nam",
+    "capital": "Hà Nội",
+    "continent": "Châu Á",
+    "president" : "Võ Văn Thưởng ",
+    "quockhanh": "2/9/1945"
+    
+  },
+  {
+    "Id": 2,
+    "country": "Mỹ",
+    "capital": "Washington D.C",
+    "continent": "Bắc Mỹ",
+    "president" : "Joe Biden ",
+    "quockhanh": "4/10/1776"
+  },
+  {
+    "Id":3,
+    "country": "Trung Quốc",
+    "capital": "Bắc Kinh",
+    "continent": "Châu Á",
+   "president" : "Tập Cận Bình ",
+    "quockhanh": "1/10/1949"
+  },
+  {
+    "Id": 4,
+    "country": "Đức",
+    "capital": "Berlin",
+    "continent": "Châu Âu",
+   "president" : "Frank Walter-Steinmeimer ",
+        "quockhanh": "3/10/1990"
+
+  },
+  {
+    "Id": 5,
+    "country": "Anh",
+    "capital": "London",
+    "continent": "Europe",
+    "president" : "Charles III ",
+    "quockhanh": "1/5/1707"
+  }
+]
